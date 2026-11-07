@@ -4,7 +4,7 @@ A simple portfolio site built with Next.js (App Router), TypeScript and Tailwind
 
 ## Live site
 
-Deployed on Vercel: https://YOUR-VERCEL-URL.vercel.app
+Deployed on Vercel: https://portfolio-buchimond.vercel.app
 
 ## Run locally
 
